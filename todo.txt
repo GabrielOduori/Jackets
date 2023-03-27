@@ -1,0 +1,8 @@
+Install and Set up Django
+Install and set up Vue
+Inclide Font Awesome
+Set up base templates
+Create Django app ad models for products
+Create Serialzer and views for the products
+Create simple front page
+View a product
